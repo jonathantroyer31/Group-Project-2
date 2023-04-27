@@ -13,7 +13,7 @@ Carol Hubach - https://github.com/carolhubach/Group-Project-2
 
 Lily Athey - https://github.com/lilyathey/Project2
 
-Valerie Penaranda - https://github.com/valerieep/Group-Project2/blob/main/README.md
+Valerie Penaranda - https://github.com/valerieep/Group-Project2/
 
 
 ## Data Set Description
