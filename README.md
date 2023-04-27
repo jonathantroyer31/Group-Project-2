@@ -5,7 +5,7 @@ Data visualization of global shark attacks.
 
 
 ## Team Name and Members
-Jonathan Troyer
+Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-2
 
 Lena Dindayal - https://github.com/lenadindayal/Group-Project2
 
