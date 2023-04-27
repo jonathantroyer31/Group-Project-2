@@ -5,6 +5,9 @@ Data visualization of global shark attacks.
 
 
 ## Team Name and Members
+
+Team ns_21479_4
+
 Jonathan Troyer - https://github.com/jonathantroyer31/Group-Project-2
 
 Lena Dindayal - https://github.com/lenadindayal/Group-Project2
@@ -13,7 +16,7 @@ Carol Hubach - https://github.com/carolhubach/Group-Project-2
 
 Lily Athey - https://github.com/lilyathey/Project2
 
-Valerie Penaranda - https://github.com/valerieep/Group-Project2/
+Valerie Penaranda - https://github.com/valerieep/Group-Project2
 
 
 ## Data Set Description
